@@ -37,7 +37,7 @@ import imgaug as ia
 from imgaug.augmentables.batches import (Batch, UnnormalizedBatch,
                                          _BatchInAugmentation)
 from .. import parameters as iap
-from .. import random as iarandom
+from .. import random_2 as iarandom
 from . import base as iabase
 
 

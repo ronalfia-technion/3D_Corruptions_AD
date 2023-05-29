@@ -39,7 +39,7 @@ from . import blur as blur_lib
 from . import size as size_lib
 from .. import parameters as iap
 from .. import dtypes as iadt
-from .. import random as iarandom
+from .. import random_2 as iarandom
 
 
 _WARP_AFF_VALID_DTYPES_CV2_ORDER_0 = iadt._convert_dtype_strs_to_types(

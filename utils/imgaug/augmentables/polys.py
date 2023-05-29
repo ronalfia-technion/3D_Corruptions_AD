@@ -11,7 +11,7 @@ import skimage.draw
 import skimage.measure
 
 from .. import imgaug as ia
-from .. import random as iarandom
+from .. import random_2 as iarandom
 from .base import IAugmentable
 from .utils import (
     normalize_imglike_shape,

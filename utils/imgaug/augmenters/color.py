@@ -41,7 +41,7 @@ from . import blend
 from . import arithmetic
 from .. import parameters as iap
 from .. import dtypes as iadt
-from .. import random as iarandom
+from .. import random_2 as iarandom
 
 
 # pylint: disable=invalid-name

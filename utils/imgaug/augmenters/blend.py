@@ -30,7 +30,7 @@ from utils.imgaug.imgaug import _normalize_cv2_input_arr_
 from . import meta
 from .. import parameters as iap
 from .. import dtypes as iadt
-from .. import random as iarandom
+from .. import random_2 as iarandom
 from ..augmentables import utils as augm_utils
 
 

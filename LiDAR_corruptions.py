@@ -1,13 +1,13 @@
 from operator import index
 import open3d as o3d
 import os
-import h5py
+#import h5py
 import json
 import numpy as np
 import struct
 import math
 from numpy import random
-import distortion
+#import distortion
 
 
 # Weather Corruptions

@@ -23,7 +23,7 @@ import cv2
 
 from . import imgaug as ia
 from . import dtypes as iadt
-from . import random as iarandom
+from . import random_2 as iarandom
 from .external.opensimplex import OpenSimplex
 
 

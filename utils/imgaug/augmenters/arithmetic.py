@@ -41,7 +41,7 @@ import imgaug as ia
 from . import meta
 from .. import parameters as iap
 from .. import dtypes as iadt
-from .. import random as iarandom
+from .. import random_2 as iarandom
 from ..imgaug import _normalize_cv2_input_arr_
 
 

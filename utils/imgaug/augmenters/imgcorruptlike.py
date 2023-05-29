@@ -78,7 +78,7 @@ import skimage.filters
 import imgaug as ia
 from ..imgaug import _numbajit
 from .. import dtypes as iadt
-from .. import random as iarandom
+from .. import random_2 as iarandom
 from .. import parameters as iap
 from . import meta
 

@@ -12,7 +12,7 @@ from __future__ import print_function, division, absolute_import
 import numpy as np
 
 from .. import parameters as iap
-from .. import random as iarandom
+from .. import random_2 as iarandom
 from . import meta
 from . import arithmetic
 from . import flip

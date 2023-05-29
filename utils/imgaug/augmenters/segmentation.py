@@ -25,7 +25,7 @@ import six.moves as sm
 
 import imgaug as ia
 from . import meta
-from .. import random as iarandom
+from .. import random_2 as iarandom
 from .. import parameters as iap
 from .. import dtypes as iadt
 from ..imgaug import _NUMBA_INSTALLED, _numbajit

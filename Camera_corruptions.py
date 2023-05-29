@@ -1,5 +1,5 @@
-import sys
-sys.path.append('utils')
+# import sys
+# sys.path.append('Corruptions/utils')
 
 
 import imgaug.augmenters as iaa
@@ -28,7 +28,7 @@ def get_gaussian_kernel(kernlen=5, nsig=3):
 
 
 
-from mmdet3d.core.bbox.structures.utils import points_cam2img
+from mmdet3d.structures.bbox_3d.utils import points_cam2img
 
 
 class ImagePointAddSun():
